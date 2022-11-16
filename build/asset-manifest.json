@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/respuestasparabero/static/css/main.72a32195.css",
+    "main.js": "/respuestasparabero/static/js/main.dc26f144.js",
+    "static/js/787.b946062d.chunk.js": "/respuestasparabero/static/js/787.b946062d.chunk.js",
+    "static/media/logo.jpg": "/respuestasparabero/static/media/logo.94e9178616bc525f4c55.jpg",
+    "index.html": "/respuestasparabero/index.html",
+    "main.72a32195.css.map": "/respuestasparabero/static/css/main.72a32195.css.map",
+    "main.dc26f144.js.map": "/respuestasparabero/static/js/main.dc26f144.js.map",
+    "787.b946062d.chunk.js.map": "/respuestasparabero/static/js/787.b946062d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72a32195.css",
+    "static/js/main.dc26f144.js"
+  ]
+}
