@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/berotest/static/css/main.72a32195.css",
+    "main.js": "/berotest/static/js/main.da10ce5a.js",
+    "static/js/787.b946062d.chunk.js": "/berotest/static/js/787.b946062d.chunk.js",
+    "static/media/logo.jpg": "/berotest/static/media/logo.94e9178616bc525f4c55.jpg",
+    "index.html": "/berotest/index.html",
+    "main.72a32195.css.map": "/berotest/static/css/main.72a32195.css.map",
+    "main.da10ce5a.js.map": "/berotest/static/js/main.da10ce5a.js.map",
+    "787.b946062d.chunk.js.map": "/berotest/static/js/787.b946062d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72a32195.css",
+    "static/js/main.da10ce5a.js"
+  ]
+}
